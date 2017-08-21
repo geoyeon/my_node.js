@@ -1,0 +1,8583 @@
+{
+	"town_Sana_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Sana_0_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_1",
+			"bust_img": 0,
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "town_Sana_0_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Sana_0_2"
+		}
+	],
+	"town_Sana_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Sana_1_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "town_Sana_1_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Sana_1_2"
+		}
+	],
+	"town_Sana_2": [
+		{
+			"id": 1,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Sana_2_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "town_Sana_2_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Sana_2_2"
+		}
+	],
+	"town_Sana_3": [
+		{
+			"id": 1,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Sana_3_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "town_Sana_3_1"
+		}
+	],
+	"town_Billy_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_6",
+			"bust_img": 0,
+			"unit_id": 8000101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Billy_0_0"
+		}
+	],
+	"town_Billy_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_6",
+			"bust_img": 0,
+			"unit_id": 8000101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Billy_1_0"
+		}
+	],
+	"town_Billy_2": [
+		{
+			"id": 1,
+			"name": "talk_char_name_6",
+			"bust_img": 0,
+			"unit_id": 8000101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Billy_2_0"
+		}
+	],
+	"town_Billy_3": [
+		{
+			"id": 1,
+			"name": "talk_char_name_6",
+			"bust_img": 0,
+			"unit_id": 8000101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Billy_3_0"
+		},
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": 0,
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "town_Billy_3_1"
+		}
+	],
+	"town_Karman_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_14",
+			"bust_img": 0,
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Karman_0_0"
+		}
+	],
+	"town_Karman_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_14",
+			"bust_img": 0,
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Karman_1_0"
+		}
+	],
+	"town_Karman_2": [
+		{
+			"id": 1,
+			"name": "talk_char_name_14",
+			"bust_img": 0,
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Karman_2_0"
+		}
+	],
+	"town_Karman_3": [
+		{
+			"id": 1,
+			"name": "talk_char_name_14",
+			"bust_img": 0,
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Karman_3_0"
+		},
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": 0,
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "town_Karman_3_1"
+		}
+	],
+	"town_Merlin_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_8",
+			"bust_img": 0,
+			"unit_id": 8000103,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Merlin_0_0"
+		}
+	],
+	"town_Merlin_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_8",
+			"bust_img": 0,
+			"unit_id": 8000103,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Merlin_1_0"
+		}
+	],
+	"town_Merlin_2": [
+		{
+			"id": 1,
+			"name": "talk_char_name_8",
+			"bust_img": 0,
+			"unit_id": 8000103,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Merlin_2_0"
+		}
+	],
+	"town_Merlin_3": [
+		{
+			"id": 1,
+			"name": "talk_char_name_8",
+			"bust_img": 0,
+			"unit_id": 8000103,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Merlin_3_0"
+		},
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": 0,
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "town_Merlin_3_1"
+		}
+	],
+	"town_Seria_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_16",
+			"bust_img": 0,
+			"unit_id": 1000701,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Seria_0_0"
+		}
+	],
+	"town_Seria_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_16",
+			"bust_img": 0,
+			"unit_id": 1000701,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Seria_1_0"
+		}
+	],
+	"town_Seria_2": [
+		{
+			"id": 1,
+			"name": "talk_char_name_16",
+			"bust_img": 0,
+			"unit_id": 1000701,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Seria_2_0"
+		}
+	],
+	"town_Seria_3": [
+		{
+			"id": 1,
+			"name": "talk_char_name_16",
+			"bust_img": 0,
+			"unit_id": 1000701,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "town_Seria_3_0"
+		},
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": 0,
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "town_Seria_3_1"
+		}
+	],
+	"group11001_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11001_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11001_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11001_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11001_3"
+		}
+	],
+	"group11002_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11002_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11002_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11002_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11002_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11002_4"
+		}
+	],
+	"group11003_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11003_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11003_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11003_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11003_3"
+		}
+	],
+	"group11004_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11004_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11004_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11004_2"
+		}
+	],
+	"group11005_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11005_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11005_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11005_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11005_3"
+		}
+	],
+	"group11005_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11005_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11005_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11005_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11005_7"
+		}
+	],
+	"group11006_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11006_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11006_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11006_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11006_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11006_4"
+		},
+		{
+			"id": 6,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11006_5"
+		}
+	],
+	"group11007_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11007_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11007_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11007_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11007_3"
+		}
+	],
+	"group11007_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11007_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11007_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11007_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11007_7"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11007_8"
+		}
+	],
+	"group11008_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11008_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11008_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11008_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11008_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11008_4"
+		},
+		{
+			"id": 6,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11008_5"
+		}
+	],
+	"group11008_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11008_6"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11008_7"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11008_8"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11008_9"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11008_10"
+		},
+		{
+			"id": 6,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11008_11"
+		}
+	],
+	"group11009_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11009_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11009_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11009_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11009_3"
+		}
+	],
+	"group11010_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11010_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11010_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11010_2"
+		}
+	],
+	"group11201_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11201_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11201_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11201_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11201_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11201_4"
+		},
+		{
+			"id": 6,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11201_5"
+		},
+		{
+			"id": 7,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11201_6"
+		}
+	],
+	"group11202_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11202_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11202_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11202_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11202_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11202_4"
+		},
+		{
+			"id": 6,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11202_5"
+		}
+	],
+	"group11011_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11011_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11011_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11011_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11011_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11011_4"
+		}
+	],
+	"group11011_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11011_5"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11011_6"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11011_7"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11011_8"
+		}
+	],
+	"group11101_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11101_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11101_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11101_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11101_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11101_4"
+		}
+	],
+	"group11102_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11102_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11102_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11102_2"
+		}
+	],
+	"group11103_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11103_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11103_1"
+		}
+	],
+	"group11103_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11103_2"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11103_3"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11103_4"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11103_5"
+		}
+	],
+	"group11104_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11104_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11104_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11104_2"
+		}
+	],
+	"group11105_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11105_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11105_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11105_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11105_3"
+		}
+	],
+	"group11106_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11106_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11106_1"
+		}
+	],
+	"group11107_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11107_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11107_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11107_2"
+		}
+	],
+	"group11107_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11107_3"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11107_4"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11107_5"
+		}
+	],
+	"group11108_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11108_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11108_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11108_2"
+		}
+	],
+	"group11109_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11109_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11109_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11109_2"
+		}
+	],
+	"group11110_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11110_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11110_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11110_2"
+		}
+	],
+	"group11110_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11110_3"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11110_4"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11110_5"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11110_6"
+		}
+	],
+	"group11111_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11111_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11111_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11111_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11111_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11111_4"
+		},
+		{
+			"id": 6,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11111_5"
+		},
+		{
+			"id": 7,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11111_6"
+		}
+	],
+	"group11112_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11112_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11112_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11112_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11112_3"
+		}
+	],
+	"group11113_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11113_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11113_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11113_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11113_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11113_4"
+		}
+	],
+	"group11113_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11113_5"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11113_6"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11113_7"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11113_8"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11113_9"
+		},
+		{
+			"id": 6,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11113_10"
+		},
+		{
+			"id": 7,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11113_11"
+		},
+		{
+			"id": 8,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11113_12"
+		},
+		{
+			"id": 9,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11113_13"
+		},
+		{
+			"id": 10,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11113_14"
+		},
+		{
+			"id": 11,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11113_15"
+		},
+		{
+			"id": 12,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11113_16"
+		}
+	],
+	"group11203_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11203_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11203_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11203_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11203_3"
+		}
+	],
+	"group11204_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11204_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11204_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11204_2"
+		}
+	],
+	"group11204_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11204_3"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11204_4"
+		}
+	],
+	"group11205_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11205_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11205_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11205_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11205_3"
+		}
+	],
+	"group11206_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11206_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11206_1"
+		}
+	],
+	"group11207_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11207_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11207_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11207_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11207_3"
+		}
+	],
+	"group11207_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11207_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11207_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11207_6"
+		}
+	],
+	"group11208_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11208_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11208_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11208_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11208_3"
+		}
+	],
+	"group11209_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11209_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11209_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11209_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11209_3"
+		}
+	],
+	"group11209_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11209_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11209_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11209_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11209_7"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11209_8"
+		},
+		{
+			"id": 6,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11209_9"
+		},
+		{
+			"id": 7,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11209_10"
+		}
+	],
+	"group11210_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11210_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11210_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11210_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11210_3"
+		}
+	],
+	"group11210_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11210_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11210_5"
+		}
+	],
+	"group11211_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11211_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11211_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11211_2"
+		}
+	],
+	"group11212_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11212_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11212_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11212_2"
+		}
+	],
+	"group11213_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11213_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11213_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11213_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11213_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11213_4"
+		},
+		{
+			"id": 6,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11213_5"
+		},
+		{
+			"id": 7,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11213_6"
+		},
+		{
+			"id": 8,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11213_7"
+		},
+		{
+			"id": 9,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11213_8"
+		},
+		{
+			"id": 10,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11213_9"
+		}
+	],
+	"group11213_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11213_10"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11213_11"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11213_12"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11213_13"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_11213_14"
+		},
+		{
+			"id": 6,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_11213_15"
+		}
+	],
+	"group13001_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13001_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13001_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13001_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13001_3"
+		}
+	],
+	"group13002_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13002_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13002_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13002_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13002_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13002_4"
+		}
+	],
+	"group13003_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13003_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13003_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13003_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13003_3"
+		}
+	],
+	"group13004_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13004_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13004_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13004_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13004_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13004_4"
+		}
+	],
+	"group13005_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13005_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13005_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13005_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13005_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13005_4"
+		}
+	],
+	"group13005_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13005_5"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13005_6"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13005_7"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13005_8"
+		}
+	],
+	"group13006_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13006_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13006_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13006_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13006_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13006_4"
+		},
+		{
+			"id": 6,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13006_5"
+		}
+	],
+	"group13216_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13216_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13216_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13216_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13216_3"
+		}
+	],
+	"group13007_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13007_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13007_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13007_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13007_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13007_4"
+		}
+	],
+	"group13008_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13008_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13008_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13008_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13008_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13008_4"
+		}
+	],
+	"group13009_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13009_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13009_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13009_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13009_3"
+		}
+	],
+	"group13010_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13010_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13010_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13010_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13010_3"
+		}
+	],
+	"group13011_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13011_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13011_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13011_2"
+		}
+	],
+	"group13012_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13012_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13012_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13012_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13012_3"
+		}
+	],
+	"group13012_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13012_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13012_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13012_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13012_7"
+		}
+	],
+	"group13101_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13101_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13101_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13101_2"
+		}
+	],
+	"group13102_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13102_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13102_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13102_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13102_3"
+		}
+	],
+	"group13102_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13102_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13102_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13102_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13102_7"
+		}
+	],
+	"group13103_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13103_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13103_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13103_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13103_3"
+		}
+	],
+	"group13104_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13104_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13104_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13104_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13104_3"
+		}
+	],
+	"group13105_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13105_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13105_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13105_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13105_3"
+		}
+	],
+	"group13106_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13106_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13106_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13106_2"
+		}
+	],
+	"group13107_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13107_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13107_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13107_2"
+		}
+	],
+	"group13108_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13108_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13108_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13108_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13108_3"
+		}
+	],
+	"group13109_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13109_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13109_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13109_2"
+		}
+	],
+	"group13110_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13110_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13110_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13110_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13110_3"
+		}
+	],
+	"group13111_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13111_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13111_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13111_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13111_3"
+		}
+	],
+	"group13111_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13111_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13111_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13111_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13111_7"
+		}
+	],
+	"group13201_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13201_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13201_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13201_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13201_3"
+		}
+	],
+	"group13202_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13202_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13202_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13202_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13202_3"
+		}
+	],
+	"group13203_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13203_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13203_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13203_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13203_3"
+		}
+	],
+	"group13204_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13204_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13204_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13204_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13204_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13204_4"
+		},
+		{
+			"id": 6,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13204_5"
+		}
+	],
+	"group13205_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13205_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13205_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13205_2"
+		}
+	],
+	"group13206_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13206_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13206_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13206_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13206_3"
+		}
+	],
+	"group13207_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13207_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13207_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13207_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13207_3"
+		}
+	],
+	"group13208_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13208_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13208_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13208_2"
+		}
+	],
+	"group13210_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13210_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13210_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13210_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13210_3"
+		}
+	],
+	"group13211_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13211_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13211_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13211_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13211_3"
+		}
+	],
+	"group13212_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13212_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13212_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13212_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13212_3"
+		}
+	],
+	"group13213_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13213_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13213_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13213_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13213_3"
+		}
+	],
+	"group13214_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13214_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13214_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13214_2"
+		}
+	],
+	"group13214_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13214_3"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13214_4"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13214_5"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13214_6"
+		}
+	],
+	"group13215_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13215_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13215_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13215_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13215_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13215_4"
+		},
+		{
+			"id": 6,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13215_5"
+		},
+		{
+			"id": 7,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13215_6"
+		}
+	],
+	"group13215_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13215_7"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13215_8"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_13215_9"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_13215_10"
+		}
+	],
+	"group90012_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_90012_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_90012_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_90012_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_90012_3"
+		}
+	],
+	"group90011_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_90011_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_90011_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_90011_2"
+		}
+	],
+	"group90011_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_90011_3"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_90011_4"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_90011_5"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_90011_6"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_90011_7"
+		},
+		{
+			"id": 6,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_90011_8"
+		}
+	],
+	"group90015_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_90015_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_90015_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_90015_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_90015_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_90015_4"
+		},
+		{
+			"id": 6,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_90015_5"
+		},
+		{
+			"id": 7,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_90015_6"
+		},
+		{
+			"id": 8,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_90015_7"
+		}
+	],
+	"group32001_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32001_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32001_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32001_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32001_3"
+		}
+	],
+	"group32002_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32002_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32002_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32002_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32002_3"
+		}
+	],
+	"group32004_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32004_1"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32004_2"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32004_3"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32004_4"
+		}
+	],
+	"group32005_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32005_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32005_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32005_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32005_3"
+		}
+	],
+	"group32006_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32006_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32006_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32006_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32006_3"
+		}
+	],
+	"group32101_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32101_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32101_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32101_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32101_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32101_4"
+		},
+		{
+			"id": 6,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32101_5"
+		}
+	],
+	"group32102_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32102_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32102_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32102_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32102_3"
+		}
+	],
+	"group32105_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32105_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32105_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32105_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32105_3"
+		}
+	],
+	"group32108_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32108_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32108_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32108_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32108_3"
+		}
+	],
+	"group32201_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32201_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32201_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32201_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32201_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32201_4"
+		},
+		{
+			"id": 6,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32201_5"
+		}
+	],
+	"group32202_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32202_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32202_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32202_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32202_3"
+		}
+	],
+	"group32205_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32205_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32205_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32205_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32205_3"
+		}
+	],
+	"group32208_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32208_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32208_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32208_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32208_3"
+		}
+	],
+	"group32301_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32301_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32301_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32301_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32301_3"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32301_4"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32301_5"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32301_6"
+		}
+	],
+	"group32305_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32305_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32305_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32305_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32305_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 0,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32305_4"
+		}
+	],
+	"group32308_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32308_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32308_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32308_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32308_3"
+		}
+	],
+	"group32308_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32308_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_1",
+			"bust_img": "portrait_swordman_bust",
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32308_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_3",
+			"bust_img": "portrait_witch_bust",
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_32308_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_32308_7"
+		}
+	],
+	"group14001_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14001_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14001_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14001_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14001_3"
+		}
+	],
+	"group14003_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14003_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14003_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14003_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14003_3"
+		}
+	],
+	"group14005_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14005_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14005_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14005_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14005_3"
+		}
+	],
+	"group14008_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14008_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14008_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14008_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14008_3"
+		}
+	],
+	"group14101_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14101_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14101_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14101_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14101_3"
+		}
+	],
+	"group14104_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14104_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14104_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14104_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14104_3"
+		}
+	],
+	"group14105_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14105_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14105_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14105_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14105_3"
+		}
+	],
+	"group14108_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14108_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14108_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14108_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14108_3"
+		}
+	],
+	"group14201_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14201_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14201_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14201_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14201_3"
+		}
+	],
+	"group14202_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14202_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14202_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14202_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14202_3"
+		}
+	],
+	"group14204_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14204_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14204_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14204_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14204_3"
+		}
+	],
+	"group14206_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14206_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14206_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14206_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14206_3"
+		}
+	],
+	"group14208_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14208_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14208_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14208_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14208_3"
+		}
+	],
+	"group14301_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14301_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14301_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14301_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14301_3"
+		}
+	],
+	"group14303_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14303_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14303_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14303_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14303_3"
+		}
+	],
+	"group14305_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14305_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14305_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14305_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14305_3"
+		},
+		{
+			"id": 5,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 0,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14305_4"
+		}
+	],
+	"group14307_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14307_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14307_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14307_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14307_3"
+		}
+	],
+	"group14308_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14308_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14308_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14308_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14308_3"
+		}
+	],
+	"group14308_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14308_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14308_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_2",
+			"bust_img": "portrait_archer_bust",
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_14308_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_4",
+			"bust_img": "portrait_fighter_bust",
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_14308_7"
+		}
+	],
+	"group22408_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_2",
+			"bust_img": 0,
+			"unit_id": 1000206,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_22408_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_4",
+			"bust_img": 0,
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_22408_5"
+		}
+	],
+	"group9011006_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9011006_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9011006_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9011006_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_3",
+			"bust_img": 0,
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9011006_3"
+		}
+	],
+	"group9016006_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9011006_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": 0,
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9011006_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9011006_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9011006_7"
+		}
+	],
+	"group9011008_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9011008_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9011008_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9011008_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_3",
+			"bust_img": 0,
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9011008_3"
+		}
+	],
+	"group9016008_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9016008_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9016008_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9016008_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9016008_7"
+		}
+	],
+	"group9013006_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9013006_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9013006_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9013006_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_3",
+			"bust_img": 0,
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9013006_3"
+		}
+	],
+	"group9013006_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9013006_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": 0,
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9013006_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9013006_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9013006_7"
+		}
+	],
+	"group9013108_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9013108_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9013108_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9013108_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9013108_3"
+		}
+	],
+	"group9013108_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9013108_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9013108_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9013108_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9013108_7"
+		}
+	],
+	"group9021004_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9021004_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9021004_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9021004_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_3",
+			"bust_img": 0,
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9021004_3"
+		}
+	],
+	"group9021004_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9021004_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": 0,
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9021004_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9021004_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9021004_7"
+		}
+	],
+	"group9021005_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9021005_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9021005_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9021005_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_3",
+			"bust_img": 0,
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9021005_3"
+		}
+	],
+	"group9021005_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9021005_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": 0,
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9021005_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9021005_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9021005_7"
+		}
+	],
+	"group9021107_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9021107_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9021107_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9021107_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_3",
+			"bust_img": 0,
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9021107_3"
+		}
+	],
+	"group9021107_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9021107_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": 0,
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9021107_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9021107_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9021107_7"
+		}
+	],
+	"group9016005_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9016005_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9016005_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9016005_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_3",
+			"bust_img": 0,
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9016005_3"
+		}
+	],
+	"group9016005_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9016005_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_3",
+			"bust_img": 0,
+			"unit_id": 1000301,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9016005_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9016005_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9016005_7"
+		}
+	],
+	"group9016008_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9016008_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9016008_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9016008_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9016008_3"
+		}
+	],
+	"group9016009_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9016009_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9016009_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9016009_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9016009_3"
+		}
+	],
+	"group9016009_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9016009_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9016009_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9016009_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9016009_7"
+		}
+	],
+	"group9022303_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022303_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022303_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022303_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022303_3"
+		}
+	],
+	"group9022303_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022303_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022303_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022303_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022303_7"
+		}
+	],
+	"group9022306_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022306_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022306_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022306_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022306_3"
+		}
+	],
+	"group9022306_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022306_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022306_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022306_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022306_7"
+		}
+	],
+	"group9122306_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9122306_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9122306_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9122306_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9122306_3"
+		}
+	],
+	"group9122306_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9122306_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9122306_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9122306_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9122306_7"
+		}
+	],
+	"group9222306_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9222306_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9222306_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9222306_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9222306_3"
+		}
+	],
+	"group9222306_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9222306_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9222306_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9222306_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9222306_7"
+		}
+	],
+	"group9122302_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9122302_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9122302_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9122302_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9122302_3"
+		}
+	],
+	"group9122302_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9122302_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9122302_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9122302_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9122302_7"
+		}
+	],
+	"group9022402_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022402_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022402_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022402_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022402_3"
+		}
+	],
+	"group9022402_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022402_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022402_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022402_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022402_7"
+		}
+	],
+	"group9022406_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022406_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022406_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022406_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022406_3"
+		}
+	],
+	"group9022406_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022406_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022406_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022406_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022406_7"
+		}
+	],
+	"group9022408_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022408_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022408_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022408_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022408_3"
+		}
+	],
+	"group9022408_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022408_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022408_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022408_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022408_7"
+		}
+	],
+	"group9015008_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9015008_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9015008_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9015008_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9015008_3"
+		}
+	],
+	"group9015008_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9015008_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9015008_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9015008_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9015008_7"
+		}
+	],
+	"group9015105_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9015105_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9015105_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9015105_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9015105_3"
+		}
+	],
+	"group9015105_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9015105_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9015105_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9015105_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9015105_7"
+		}
+	],
+	"group9031008_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9031008_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9031008_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9031008_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9031008_3"
+		}
+	],
+	"group9031008_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9031008_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9031008_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9031008_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9031008_7"
+		}
+	],
+	"group9022302_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022302_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022302_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022302_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022302_3"
+		}
+	],
+	"group9022302_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022302_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022302_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9022302_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9022302_7"
+		}
+	],
+	"group9322306_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9322306_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9322306_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9322306_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9322306_3"
+		}
+	],
+	"group9322306_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9322306_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9322306_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9322306_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9322306_7"
+		}
+	],
+	"group9031102_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9031102_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9031102_1"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9031102_2"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9031102_3"
+		}
+	],
+	"group9031102_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9031102_4"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9031102_5"
+		},
+		{
+			"id": 3,
+			"name": "talk_char_name_11",
+			"bust_img": 0,
+			"unit_id": 1000501,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_9031102_6"
+		},
+		{
+			"id": 4,
+			"name": "talk_char_name_9",
+			"bust_img": 0,
+			"unit_id": 8000104,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_9031102_7"
+		}
+	],
+	"group911107_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": 0,
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_911107_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_5",
+			"bust_img": 0,
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_911107_1"
+		}
+	],
+	"group911108_0": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": 0,
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_911108_0"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_5",
+			"bust_img": 0,
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_911108_1"
+		}
+	],
+	"group911108_1": [
+		{
+			"id": 1,
+			"name": "talk_char_name_1",
+			"bust_img": 0,
+			"unit_id": 1004101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 0,
+			"script": "talk_script_911108_2"
+		},
+		{
+			"id": 2,
+			"name": "talk_char_name_5",
+			"bust_img": 0,
+			"unit_id": 1001101,
+			"event_img": 0,
+			"isShake": 0,
+			"position": 1,
+			"script": "talk_script_911108_3"
+		}
+	],
+	"talkScriptTitle": {
+		"town_Sana_0": "town_Sana_title_0",
+		"town_Sana_1": "town_Sana_title_1",
+		"town_Sana_2": "town_Sana_title_2",
+		"town_Sana_3": "town_Sana_title_3",
+		"town_Billy_0": "town_Billy_title_0",
+		"town_Billy_1": "town_Billy_title_1",
+		"town_Billy_2": "town_Billy_title_2",
+		"town_Billy_3": "town_Billy_title_3",
+		"town_Karman_0": "town_Karman_title_0",
+		"town_Karman_1": "town_Karman_title_1",
+		"town_Karman_2": "town_Karman_title_2",
+		"town_Karman_3": "town_Karman_title_3",
+		"town_Merlin_0": "town_Merlin_title_0",
+		"town_Merlin_1": "town_Merlin_title_1",
+		"town_Merlin_2": "town_Merlin_title_2",
+		"town_Merlin_3": "town_Merlin_title_3",
+		"town_Seria_0": "town_Seria_title_0",
+		"town_Seria_1": "town_Seria_title_1",
+		"town_Seria_2": "town_Seria_title_2",
+		"town_Seria_3": "town_Seria_title_3",
+		"group11001_0": "talk_title_11001_0",
+		"group11002_0": "talk_title_11002_0",
+		"group11003_0": "talk_title_11003_0",
+		"group11004_0": "talk_title_11004_0",
+		"group11005_0": "talk_title_11005_0",
+		"group11005_1": "talk_title_11005_1",
+		"group11006_0": "talk_title_11006_0",
+		"group11007_0": "talk_title_11007_0",
+		"group11007_1": "talk_title_11007_1",
+		"group11008_0": "talk_title_11008_0",
+		"group11008_1": "talk_title_11008_1",
+		"group11009_0": "talk_title_11009_0",
+		"group11010_0": "talk_title_11010_0",
+		"group11011_1": "talk_title_11011_1",
+		"group11101_0": "talk_title_11101_0",
+		"group11102_0": "talk_title_11102_0",
+		"group11103_0": "talk_title_11103_0",
+		"group11103_1": "talk_title_11103_1",
+		"group11104_0": "talk_title_11104_0",
+		"group11105_0": "talk_title_11105_0",
+		"group11106_0": "talk_title_11106_0",
+		"group11107_0": "talk_title_11107_0",
+		"group11107_1": "talk_title_11107_1",
+		"group11108_0": "talk_title_11108_0",
+		"group11109_0": "talk_title_11109_0",
+		"group11110_0": "talk_title_11110_0",
+		"group11110_1": "talk_title_11110_1",
+		"group11111_0": "talk_title_11111_0",
+		"group11112_0": "talk_title_11112_0",
+		"group11113_0": "talk_title_11113_0",
+		"group11113_1": "talk_title_11113_1",
+		"group11201_0": "talk_title_11201_0",
+		"group11202_0": "talk_title_11202_0",
+		"group11203_0": "talk_title_11203_0",
+		"group11204_0": "talk_title_11204_0",
+		"group11204_1": "talk_title_11204_1",
+		"group11205_0": "talk_title_11205_0",
+		"group11206_0": "talk_title_11206_0",
+		"group11207_0": "talk_title_11207_0",
+		"group11207_1": "talk_title_11207_1",
+		"group11208_0": "talk_title_11208_0",
+		"group11209_0": "talk_title_11209_0",
+		"group11209_1": "talk_title_11209_1",
+		"group11210_0": "talk_title_11210_0",
+		"group11210_1": "talk_title_11210_1",
+		"group11211_0": "talk_title_11211_0",
+		"group11212_0": "talk_title_11212_0",
+		"group11213_0": "talk_title_11213_0",
+		"group11213_1": "talk_title_11213_1",
+		"group13001_0": "talk_title_13001_0",
+		"group13002_0": "talk_title_13002_0",
+		"group13003_0": "talk_title_13003_0",
+		"group13004_0": "talk_title_13004_0",
+		"group13005_0": "talk_title_13005_0",
+		"group13005_1": "talk_title_13005_1",
+		"group13006_0": "talk_title_13006_0",
+		"group13216_0": "talk_title_13216_0",
+		"group13007_0": "talk_title_13007_0",
+		"group13008_0": "talk_title_13008_0",
+		"group13009_0": "talk_title_13009_0",
+		"group13010_0": "talk_title_13010_0",
+		"group13011_0": "talk_title_13011_0",
+		"group13012_0": "talk_title_13012_0",
+		"group13012_1": "talk_title_13012_1",
+		"group13101_0": "talk_title_13101_0",
+		"group13102_0": "talk_title_13102_0",
+		"group13102_1": "talk_title_13102_1",
+		"group13103_0": "talk_title_13103_0",
+		"group13104_0": "talk_title_13104_0",
+		"group13105_0": "talk_title_13105_0",
+		"group13106_0": "talk_title_13106_0",
+		"group13107_0": "talk_title_13107_0",
+		"group13108_0": "talk_title_13108_0",
+		"group13109_0": "talk_title_13109_0",
+		"group13110_0": "talk_title_13110_0",
+		"group13111_0": "talk_title_13111_0",
+		"group13111_1": "talk_title_13111_1",
+		"group13201_0": "talk_title_13201_0",
+		"group13202_0": "talk_title_13202_0",
+		"group13203_0": "talk_title_13203_0",
+		"group13204_0": "talk_title_13204_0",
+		"group13205_0": "talk_title_13205_0",
+		"group13206_0": "talk_title_13206_0",
+		"group13207_0": "talk_title_13207_0",
+		"group13208_0": "talk_title_13208_0",
+		"group13210_0": "talk_title_13210_0",
+		"group13211_0": "talk_title_13211_0",
+		"group13212_0": "talk_title_13212_0",
+		"group13213_0": "talk_title_13213_0",
+		"group13214_0": "talk_title_13214_0",
+		"group13214_1": "talk_title_13214_1",
+		"group13215_0": "talk_title_13215_0",
+		"group13215_1": "talk_title_13215_1",
+		"group90012_0": "talk_title_90012_0",
+		"group90011_0": "talk_title_90011_0",
+		"group90011_1": "talk_title_90011_1",
+		"group90015_0": "talk_title_90015_0",
+		"group32001_0": "talk_title_32001_0",
+		"group32002_0": "talk_title_32002_0",
+		"group32004_1": "talk_title_32004_1",
+		"group32005_0": "talk_title_32005_0",
+		"group32006_0": "talk_title_32006_0",
+		"group32101_0": "talk_title_32101_0",
+		"group32102_0": "talk_title_32102_0",
+		"group32105_0": "talk_title_32105_0",
+		"group32108_0": "talk_title_32108_0",
+		"group32201_0": "talk_title_32201_0",
+		"group32202_0": "talk_title_32202_0",
+		"group32205_0": "talk_title_32205_0",
+		"group32208_0": "talk_title_32208_0",
+		"group32301_0": "talk_title_32301_0",
+		"group32305_0": "talk_title_32305_0",
+		"group32308_0": "talk_title_32308_0",
+		"group32308_1": "talk_title_32308_1",
+		"group22408_1": "talk_title_22408_1",
+		"group14001_0": "talk_title_14001_0",
+		"group14003_0": "talk_title_14003_0",
+		"group14005_0": "talk_title_14005_0",
+		"group14008_0": "talk_title_14008_0",
+		"group14101_0": "talk_title_14101_0",
+		"group14104_0": "talk_title_14104_0",
+		"group14105_0": "talk_title_14105_0",
+		"group14108_0": "talk_title_14108_0",
+		"group14201_0": "talk_title_14201_0",
+		"group14202_0": "talk_title_14202_0",
+		"group14204_0": "talk_title_14204_0",
+		"group14206_0": "talk_title_14206_0",
+		"group14208_0": "talk_title_14208_0",
+		"group14301_0": "talk_title_14301_0",
+		"group14303_0": "talk_title_14303_0",
+		"group14305_0": "talk_title_14305_0",
+		"group14307_0": "talk_title_14307_0",
+		"group14308_0": "talk_title_14308_0",
+		"group14308_1": "talk_title_14308_1",
+		"group9011006_0": "talk_title_9011106_0",
+		"group9011006_1": "talk_title_9011106_1",
+		"group9011008_0": "talk_title_9011108_0",
+		"group9011008_1": "talk_title_9011108_1",
+		"group9013006_0": "talk_title_9013006_0",
+		"group9013006_1": "talk_title_9013006_1",
+		"group9013108_0": "talk_title_9013108_0",
+		"group9013108_1": "talk_title_9013108_1",
+		"group9113108_0": "talk_title_9113108_0",
+		"group9113108_1": "talk_title_9113108_1",
+		"group9021004_0": "talk_title_9021004_0",
+		"group9021004_1": "talk_title_9021004_1",
+		"group9021005_0": "talk_title_9021005_0",
+		"group9021005_1": "talk_title_9021005_1",
+		"group9021107_0": "talk_title_9021107_0",
+		"group9021107_1": "talk_title_9021107_1",
+		"group9016005_0": "talk_title_9016005_0",
+		"group9016005_1": "talk_title_9016005_1",
+		"group9016008_0": "talk_title_9016008_0",
+		"group9016008_1": "talk_title_9016008_1",
+		"group9016009_0": "talk_title_9016009_0",
+		"group9016009_1": "talk_title_9016009_1",
+		"group9016108_0": "talk_title_9016108_0",
+		"group9016108_1": "talk_title_9016108_1",
+		"group9022303_0": "talk_title_9022303_0",
+		"group9022303_1": "talk_title_9022303_1",
+		"group9022306_0": "talk_title_9022306_0",
+		"group9022306_1": "talk_title_9022306_1",
+		"group9122306_0": "talk_title_9122306_0",
+		"group9122306_1": "talk_title_9122306_1",
+		"group9222306_0": "talk_title_9222306_0",
+		"group9222306_1": "talk_title_9222306_1",
+		"group9122302_0": "talk_title_9122302_0",
+		"group9122302_1": "talk_title_9122302_1",
+		"group9022402_0": "talk_title_9022402_0",
+		"group9022402_1": "talk_title_9022402_1",
+		"group9022406_0": "talk_title_9022406_0",
+		"group9022406_1": "talk_title_9022406_1",
+		"group9022408_0": "talk_title_9022408_0",
+		"group9022408_1": "talk_title_9022408_1",
+		"group9015008_0": "talk_title_9015008_0",
+		"group9015008_1": "talk_title_9015008_1",
+		"group9015105_0": "talk_title_9015105_0",
+		"group9015105_1": "talk_title_9015105_1",
+		"group9031008_0": "talk_title_9031008_0",
+		"group9031008_1": "talk_title_9031008_1",
+		"group9022302_0": "talk_title_9022302_0",
+		"group9022302_1": "talk_title_9022302_1",
+		"group9322306_0": "talk_title_9322306_0",
+		"group9322306_1": "talk_title_9322306_1",
+		"group9031102_0": "talk_title_9031102_0",
+		"group9031102_1": "talk_title_9031102_1",
+		"group911107_0": "talk_title_911107_0",
+		"group911108_0": "talk_title_911108_0",
+		"group911108_1": "talk_title_911108_1"
+	}
+}

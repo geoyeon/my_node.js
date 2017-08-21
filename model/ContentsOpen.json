@@ -1,0 +1,121 @@
+{
+	"contents_open": {
+		"1000103": {
+			"id": 1000103,
+			"unlock_requirement_0": 2,
+			"unlock_requirement_detail_0": 11001,
+			"contents_open_type": 0,
+			"load_scene_id": 0,
+			"load_view_id": 0,
+			"open_ui_view_id": 0,
+			"icon_name": 0,
+			"title_text_key": 0,
+			"guide_text_key": 0,
+			"noti_text_key": 0
+		},
+		"1000106": {
+			"id": 1000106,
+			"unlock_requirement_0": 1,
+			"unlock_requirement_detail_0": 11108,
+			"contents_open_type": 13,
+			"load_scene_id": 2,
+			"load_view_id": 1,
+			"open_ui_view_id": "ui_view_summon_menu",
+			"icon_name": "Menu_SummonIcon",
+			"title_text_key": "contents_open_noti_title_4",
+			"guide_text_key": "contents_open_noti_guide_4",
+			"noti_text_key": 0
+		},
+		"1000107": {
+			"id": 1000107,
+			"unlock_requirement_0": 1,
+			"unlock_requirement_detail_0": 21108,
+			"contents_open_type": 13,
+			"load_scene_id": 2,
+			"load_view_id": 1,
+			"open_ui_view_id": "ui_view_summon_menu",
+			"icon_name": "Menu_SummonIcon",
+			"title_text_key": "contents_open_noti_title_4",
+			"guide_text_key": "contents_open_noti_guide_4",
+			"noti_text_key": 0
+		},
+		"1000108": {
+			"id": 1000108,
+			"unlock_requirement_0": 1,
+			"unlock_requirement_detail_0": 11004,
+			"contents_open_type": 16,
+			"load_scene_id": 2,
+			"load_view_id": 1,
+			"open_ui_view_id": "ui_view_camp_menu",
+			"icon_name": "Menu_BarracksIcon",
+			"title_text_key": "contents_open_noti_title_5",
+			"guide_text_key": "contents_open_noti_guide_5",
+			"noti_text_key": 0
+		},
+		"1000109": {
+			"id": 1000109,
+			"unlock_requirement_0": 1,
+			"unlock_requirement_detail_0": 11008,
+			"contents_open_type": 16,
+			"load_scene_id": 2,
+			"load_view_id": 1,
+			"open_ui_view_id": "ui_view_camp_menu",
+			"icon_name": "Menu_BarracksIcon",
+			"title_text_key": "contents_open_noti_title_6",
+			"guide_text_key": "contents_open_noti_guide_6",
+			"noti_text_key": 0
+		},
+		"1000110": {
+			"id": 1000110,
+			"unlock_requirement_0": 1,
+			"unlock_requirement_detail_0": 13002,
+			"contents_open_type": 18,
+			"load_scene_id": 2,
+			"load_view_id": 1,
+			"open_ui_view_id": "ui_view_camp_menu",
+			"icon_name": "Menu_BarracksIcon",
+			"title_text_key": "contents_open_noti_title_7",
+			"guide_text_key": "contents_open_noti_guide_7",
+			"noti_text_key": 0
+		},
+		"1000111": {
+			"id": 1000111,
+			"unlock_requirement_0": 1,
+			"unlock_requirement_detail_0": 13008,
+			"contents_open_type": 18,
+			"load_scene_id": 2,
+			"load_view_id": 1,
+			"open_ui_view_id": "ui_view_camp_menu",
+			"icon_name": "Menu_BarracksIcon",
+			"title_text_key": "contents_open_noti_title_8",
+			"guide_text_key": "contents_open_noti_guide_8",
+			"noti_text_key": 0
+		},
+		"1000112": {
+			"id": 1000112,
+			"unlock_requirement_0": 1,
+			"unlock_requirement_detail_0": 15003,
+			"contents_open_type": 17,
+			"load_scene_id": 2,
+			"load_view_id": 1,
+			"open_ui_view_id": "ui_view_camp_menu",
+			"icon_name": "Menu_BarracksIcon",
+			"title_text_key": "contents_open_noti_title_9",
+			"guide_text_key": "contents_open_noti_guide_9",
+			"noti_text_key": 0
+		},
+		"1000113": {
+			"id": 1000113,
+			"unlock_requirement_0": 1,
+			"unlock_requirement_detail_0": 15008,
+			"contents_open_type": 17,
+			"load_scene_id": 2,
+			"load_view_id": 1,
+			"open_ui_view_id": "ui_view_camp_menu",
+			"icon_name": "Menu_BarracksIcon",
+			"title_text_key": "contents_open_noti_title_10",
+			"guide_text_key": "contents_open_noti_guide_10",
+			"noti_text_key": 0
+		}
+	}
+}

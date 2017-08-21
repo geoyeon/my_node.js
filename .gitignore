@@ -1,0 +1,11 @@
+*.log
+*~
+myvenv
+/db
+/admin
+/logic
+/router
+.views
+.DS_Store
+/.idea
+/node_modules

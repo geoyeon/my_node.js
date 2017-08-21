@@ -1,0 +1,49 @@
+{
+	"advent_dungeon": {
+		"1": {
+			"id": 1,
+			"start_date": "04/22/2017 00:00",
+			"end_date": "05/13/2017 23:59",
+			"monster_id": 3001301,
+			"stage_id_0": 1101,
+			"stage_id_1": 1102,
+			"stage_id_2": 1103,
+			"stage_id_3": 1104,
+			"access_number": 3,
+			"add_access_type": 2,
+			"add_access_price": 5000,
+			"reward_info_0": 7000601,
+			"reward_info_1": 3000207
+		},
+		"2": {
+			"id": 2,
+			"start_date": "04/21/2017 00:00",
+			"end_date": "05/12/2017 23:59",
+			"monster_id": 3001402,
+			"stage_id_0": 1001,
+			"stage_id_1": 1002,
+			"stage_id_2": 1003,
+			"stage_id_3": 1004,
+			"access_number": 3,
+			"add_access_type": 1,
+			"add_access_price": 50,
+			"reward_info_0": 7000401,
+			"reward_info_1": 3000105
+		},
+		"3": {
+			"id": 3,
+			"start_date": "04/23/2017 00:00",
+			"end_date": "05/14/2017 23:59",
+			"monster_id": 3001601,
+			"stage_id_0": 1201,
+			"stage_id_1": 1202,
+			"stage_id_2": 1203,
+			"stage_id_3": 1204,
+			"access_number": 3,
+			"add_access_type": 1,
+			"add_access_price": 50,
+			"reward_info_0": 7000501,
+			"reward_info_1": 3000501
+		}
+	}
+}

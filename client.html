@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>chat</title>
+    <style>
+      .chat_log{ width: 95%; height: 200px; }
+      .name{ width: 10%; }
+      .message{ width: 70%; }
+      .chat{ width: 10%; }
+    </style>
+  </head>
+  <body>
+    <div>
+      <textarea id="chatLog" class="chat_log" readonly></textarea>
+    </div>
+    <form id="chat">
+      <input id="name" class="name" type="text" readonly>
+      <input id="message" class="message" type="text">
+      <input type="submit" class="chat" value="chat"/>
+    </form>
+    <div id="box" class="box">
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.1.js"></script>
+    <script>
+      var socket = io();
+      $('#chat').on('submit', function(e){
+        socket.emit('join_room', "test_room", $('#message').val());
+        $('#message').val("");
+        e.preventDefault();
+      });
+      socket.on('receive message', function(msg){
+        $('#chatLog').append(msg+"\n");
+        $('#chatLog').scrollTop($('#chatLog').innerHeight())
+      });
+      socket.on('init data', function(msg){
+        alert(msg);
+        $('#chatLog').append("init data : " + msg.length+"\n");
+        $('#chatLog').scrollTop($('#chatLog').innerHeight())
+      });
+      socket.on('change name', function(name){
+        $('#name').val(name);
+      });
+    </script>
+  </body>
+</html>
